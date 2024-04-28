@@ -18,9 +18,9 @@
     </toc-element>
     <toc-element topic="Standard-Zugriffsrechte-in-der-Praxis.md"/>
     <toc-element topic="Vererbung.md"/>
-    <toc-element topic="Informationen.md"/>
     <toc-element topic="Freigaberechte.md">
         <toc-element topic="Verborgene-und-administrative-Freigaben.md"/>
         <toc-element topic="Tipps.md"/>
     </toc-element>
+    <toc-element topic="Informationen.md"/>
 </instance-profile>
