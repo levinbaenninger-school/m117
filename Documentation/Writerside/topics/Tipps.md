@@ -1,6 +1,6 @@
 # Tipps
 
-* Die meisten Probleme im Bereich der Dateifreigabe können Sie mit folgenden Massnahmen diagnostizieren und beseitigen:
+Die meisten Probleme im Bereich der Dateifreigabe können Sie mit folgenden Massnahmen diagnostizieren und beseitigen:
 
 * **Prüfen Sie die Verbindung zwischen dem Computer, der die Ressourcen freigibt, und dem Computer, dessen Benutzer versucht, auf die freigegebenen Ressourcen zuzugreifen**: Beide Computer müssen an das Netzwerk angeschlossen und mit den richtigen TCP/IP- Einstellungen konfiguriert sein. Bei beiden Computern muss die Firewall so eingerichtet sein,
 * dass sie eingehende und ausgehende Verbindungen erlaubt. Auf dem Computer, der Ressourcen freigibt, muss in der Windows- Firewall die Ausnahme für die Datei- und Druckerfreigabe aktiviert sein.
